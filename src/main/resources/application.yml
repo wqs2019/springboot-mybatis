@@ -1,9 +1,9 @@
 spring:
   datasource:
     username: root
-    password: Wqs2019..
+    password: 123456
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://47.98.151.134:3306/mybatis
+    url: jdbc:mysql://localhost:3306/mybatis
     type: com.alibaba.druid.pool.DruidDataSource
 
     #   数据源其他配置
